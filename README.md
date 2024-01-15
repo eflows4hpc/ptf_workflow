@@ -11,6 +11,17 @@ agreement No 955558.
 
 The Faster-Than-Real-Time tsunami simulation is performed by the Tsunami-HySEA code, developed by the EDANYA group at the University of Málaga, Spain: https://github.com/edanya-uma/TsunamiHySEA  
 
+The eFlows4HPC PTF Workflow
+===========================   
+
+The figure below shows the outline of the eFlows4HPC Probabilistic Tsunami Forecast workflow.
+The time axis extends from the earthquake occurrence to the output of Alert Levels.
+Input to the system comes from time-invariant geophysical background information and from
+near real-time data inputs. A given earthquake alert is associated with a large number of potential
+scenario descriptions and, until convergence is reached, Faster-Than-Real-Time tsunami simulations are
+carried out to assess the outcomes of each scenario.
+
+![Outline of the eFlows4HPC Probabilistic Tsunami Forecast workflow](WF_general.png)
 
 
 Operation
