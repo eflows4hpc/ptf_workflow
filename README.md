@@ -7,6 +7,7 @@ PTF explicitly treats data- and forecast-uncertainties, enabling alert level def
 The PyCOMPSs PTF workflow was developed under the eFlows4HPC project (https://eflows4hpc.eu/) funded by the European High-Performance Computing Joint Undertaking (JU) under grant
 agreement No 955558.
 
+![Logo of the eFlows4HPC project, funded by the European High-Performance Computing Joint Undertaking (JU) under grant agreement No 955558, https://eflows4hpc.eu/](eFlows4HPClogo.png)  
 
 Literature
 ==========
