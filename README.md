@@ -9,6 +9,24 @@ agreement No 955558.
 
 ![Logo of the eFlows4HPC project, funded by the European High-Performance Computing Joint Undertaking (JU) under grant agreement No 955558, https://eflows4hpc.eu/](eFlows4HPClogo.png)  
 
+The Faster-Than-Real-Time tsunami simulation is performed by the Tsunami-HySEA code, developed by the EDANYA group at the University of Málaga, Spain: https://github.com/edanya-uma/TsunamiHySEA  
+
+
+
+Operation
+=========   
+
+A typical execution using PyCOMPSs is carried out using a command of the following format:  
+
+```
+enqueue_compss --num_nodes=5 --exec_time=120 --env_script=$PWD/env.sh \
+  $PWD/Code/ptf_workflow.py --seistype BS --kagan_weight 1 --mare_weight 0 \
+  --hours 1 --group_sims 4 --cfg from_template --event event=2003_0521_boumardes \
+  --parameters_file $PWD/parfiles.txt --user_pois $PWD/user_pois.txt \
+  --data_path /gpfs/projects/bsc44/PTF_WF/data/ \
+  --templates_path /gpfs/projects/bsc44/PTF_WF/templates/ --run_path $PWD/Run/
+```
+
 Literature
 ==========
 
