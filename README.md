@@ -1,4 +1,4 @@
-# PyCOMPSs implementation of Probabilistic Tsunami Forecast (PTF) 
+# The eFlows4HPC Probabilistic Tsunami Forecast (PTF) workflow
 
 Licence: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0  
 
