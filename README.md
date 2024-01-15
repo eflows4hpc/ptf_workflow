@@ -48,12 +48,4 @@ Selva et al. (2021),  "Probabilistic tsunami forecasting for early warning",
 
 ![Image of the paper "Probabilistic tsunami forecasting for early warning", Selva et al. (2021), Nature Communications, http://dx.doi.org/10.1038/s41467-021-25815-w ](PTF_NatComm_2021_image.png)  
 
-(To be added:
-
-CITATION.cff  
-CITING.md  
-CONTRIBUTING.md  
-CODE_OF_CONDUCT.md  
-
-)
 
