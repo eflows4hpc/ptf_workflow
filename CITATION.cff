@@ -1,0 +1,115 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.0.0
+title: eFlows4HPC PTF Workflow
+message: >-
+    Probabilistic Tsunami Forecasting (PTF) is a procedure for providing rapid forecasts of tsunami threat following a large earthquake, treating data- and forecast-uncertainties explicitly.
+type: software
+authors:
+  - given-names: 'Louise '
+    family-names: Cordrie
+    email: louise.cordrie@ingv.it
+    affiliation: INGV
+    orcid: 'https://orcid.org/xxxx-xxxx-xxxx-xxxx'
+  - given-names: 'Jorge '
+    family-names: Ejarque
+    email: jorge.ejarque@bsc.es
+    affiliation: BSC
+    orcid: 'https://orcid.org/0000-0003-4725-5097'
+  - given-names: ' Carlos'
+    family-names: Sánchez Linares
+    email: csl@uma.es
+    orcid: 'https://orcid.org/0000-0002-5493-5982'
+    affiliation: Universidad de Málaga
+  - given-names: Jacopo
+    family-names: Selva
+    email: jacopo.selva@unina.it
+    affiliation: Università degli Studi di Napoli Federico II 
+    orcid: 'https://orcid.org/0000-0001-6263-6934'
+  - given-names: Jorge
+    family-names: Macías Sánchez
+    email: jmacias@uma.es
+    affiliation: Universidad de Málaga
+    orcid: 'https://orcid.org/0000-0002-3010-8050'
+  - given-names: 'Steven J. '
+    family-names: Gibbons
+    email: steven.gibbons@ngi.no
+    affiliation: NGI
+    orcid: 'https://orcid.org/0000-0002-7822-0244'
+  - given-names: 'Fabrizio '
+    family-names: Bernardi
+    email: roberto.tonini@ingv.it
+    affiliation: INGV
+    orcid: 'https://orcid.org/0000-0002-0414-8411'
+  - given-names: 'Manuel Jesús '
+    family-names: Castro Díaz
+    email: mjcastro@uma.es
+    orcid: 'https://orcid.org/0000-0003-3164-7715'
+    affiliation: UMA
+  - given-names: 'Roberto '
+    family-names: Tonini
+    email: roberto.tonini@ingv.it
+    affiliation: INGV
+    orcid: 'https://orcid.org/0000-0001-7617-7206'
+  - given-names: 'Rosa '
+    family-names: M Badia
+    email: rosa.m.badia@bsc.es
+    affiliation: BSC
+    orcid: 'https://orcid.org/0000-0003-2941-5499'
+  - given-names: 'Sonia '
+    family-names: Scardigno
+    email: sonia.scardigno@cmcc.it
+    affiliation: CMCC
+  - given-names: 'Stefano '
+    family-names: Lorito
+    email: stefano.lorito@ingv.it
+    affiliation: INGV
+    orcid: 'https://orcid.org/0000-0002-1458-2131'
+  - given-names: 'Fabrizio '
+    family-names: Romano
+    email: fabrizio.romano@ingv.it
+    affiliation: INGV
+    orcid: 'https://orcid.org/0000-0003-2725-3596'
+  - given-names: 'Finn '
+    family-names: Løvholt
+    email: Finn.Lovholt@ngi.no
+    affiliation: NGI
+    orcid: 'https://orcid.org/0000-0003-1019-7321'
+  - given-names: 'Manuela '
+    family-names: Volpe
+    email: manuela.volpe@ingv.it
+    affiliation: INGV
+    orcid: 'https://orcid.org/0000-0003-4551-3339'
+  - given-names: 'Donatello '
+    family-names: Elia
+    email: donatello.elia@cmcc.it
+    affiliation: CMCC
+    orcid: 'https://orcid.org/0000-0002-9206-2385'
+  - given-names: 'Alessandro '
+    family-names: D'Anca
+    email: alessandro.danca@cmcc.it
+    affiliation: CMCC
+    orcid: 'https://orcid.org/0000-0002-0372-2530'
+  - given-names: 'Marc '
+    family-names: de la Asunción
+    email: marcah@uma.es
+    affiliation: Universidad de Málaga
+    orcid: 'https://orcid.org/0000-0003-3130-1335'
+  - given-names: 'Valentina '
+    family-names: Magni
+    email: valentina.magni@ngi.no
+    affiliation: NGI
+    orcid: 'https://orcid.org/0000-0003-2882-1954'
+
+identifiers:
+  - type: doi
+    value: Not yet applicable    
+repository-code: 'https://github.com/eflows4hpc/ptf_workflow'
+url: 'https://github.com/eflows4hpc/ptf_workflow/'
+abstract: >-
+    PTF
+keywords:
+  - tsunami modeling
+license: CC BY-NC-ND 4.0
+version: 1.0.0
